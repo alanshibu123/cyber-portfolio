@@ -23,7 +23,7 @@
 ---
 
 ## Badges
-![TryHackMe](https://tryhackme-badges.s3.eu-west-1.amazonaws.com/alanshibu123.png)  
+![TryHackMe]([https://tryhackme-badges.s3.eu-west-1.amazonaws.com/alanshibu123.png](https://tryhackme.com/p/A102004S))  
 A102004S
 
 ---
